@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680594608 source:c:\users\jd\desktop\1b\2023-04-04\liczby zespolone\main.cpp
+	<iostream>
+	"zespolone.h"
+
+1680594687 c:\users\jd\desktop\1b\2023-04-04\liczby zespolone\zespolone.h
+
+1680594729 source:c:\users\jd\desktop\1b\2023-04-04\liczby zespolone\zespolone.cpp
+	<iostream>
+	"zespolone.h"
+
